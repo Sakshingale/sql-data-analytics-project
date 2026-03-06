@@ -218,26 +218,3 @@ Generating data-driven insights using SQL
 
 Sakshi Ingale
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Author
-Sakshi Ingale
